@@ -1,0 +1,526 @@
+{
+  "Name-_x446_y313": {
+    "parent": [
+      "Rectangle-1-copy-25-_x435_y300"
+    ],
+    "bottom": [
+      "Lorem-Ipsum-1-_x446_y330"
+    ],
+    "yMouseClickPoint": 428,
+    "click_y": 316.5,
+    "click_x": 460.5,
+    "right": [],
+    "cssStyles": {
+      "color": "#737373",
+      "font-weight": "normal",
+      "letter-spacing": "0.1px",
+      "width": "29px",
+      "font-size": "10px",
+      "font-family": "NotoSans",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "7px",
+      "text-align": "left"
+    },
+    "elementName": "Name-_x446_y313",
+    "actElementName": "Name-_x446_y313",
+    "contains": [],
+    "styleGuideY": "313px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 732,
+    "styleGuideX": "446px",
+    "width": "29px",
+    "text": "Name",
+    "elementType": "text",
+    "height": "7px"
+  },
+  "screen": {
+    "parent": [
+      "ROOT_REF_WINDOW"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 360,
+    "click_y": 400.5,
+    "click_x": 672.5,
+    "right": [],
+    "cssStyles": {
+      "background-color": "rgba(0,, 0,, 0.1), 1)",
+      "border-radius": "2px",
+      "box-shadow": "0px 1px 10px 0 rgba(0, 0, 0, 0.1)",
+      "width": "535px",
+      "height": "313px"
+    },
+    "elementName": "screen",
+    "actElementName": "white-background-_x405_y244",
+    "contains": [
+      "Rounded-Rectangle-50_x435_y487",
+      "cancel-icon-_x545_y502",
+      "Rectangle-1-copy-25-_x435_y300",
+      "close-_x922_y254",
+      "CANCEL-_x562_y502",
+      "Add-New-Order-Cluste_x435_y274"
+    ],
+    "styleGuideY": "244px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 914,
+    "styleGuideX": "405px",
+    "width": "535px",
+    "text": null,
+    "elementType": "topElement",
+    "height": "313px"
+  },
+  "Rounded-Rectangle-50_x435_y487": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 605,
+    "click_y": 507,
+    "click_x": 475,
+    "right": [
+      "cancel-icon-_x545_y502"
+    ],
+    "cssStyles": {
+      "background-color": "#0076d6",
+      "border-radius": "3px",
+      "width": "80px",
+      "height": "40px"
+    },
+    "elementName": "Rounded-Rectangle-50_x435_y487",
+    "actElementName": "Rounded-Rectangle-50_x435_y487",
+    "contains": [
+      "Add-_x472_y502",
+      "element_x454_y502"
+    ],
+    "styleGuideY": "487px",
+    "top": [
+      "Rectangle-1-copy-25-_x435_y300"
+    ],
+    "left": [],
+    "xMouseClickPoint": 773,
+    "styleGuideX": "435px",
+    "width": "80px",
+    "text": null,
+    "elementType": "button",
+    "height": "40px"
+  },
+  "cancel-icon-_x545_y502": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 615,
+    "click_y": 506.5,
+    "click_x": 549.5,
+    "right": [
+      "CANCEL-_x562_y502"
+    ],
+    "cssStyles": {
+      "background-color": "#0076d6",
+      "width": "9px",
+      "height": "9px"
+    },
+    "elementName": "cancel-icon-_x545_y502",
+    "actElementName": "cancel-icon-_x545_y502",
+    "contains": [],
+    "styleGuideY": "502px",
+    "top": [
+      "Rectangle-1-copy-25-_x435_y300"
+    ],
+    "left": [
+      "Rounded-Rectangle-50_x435_y487"
+    ],
+    "xMouseClickPoint": 830,
+    "styleGuideX": "545px",
+    "width": "9px",
+    "text": null,
+    "elementType": "icon",
+    "height": "9px"
+  },
+  "Lorem-ipsum-dolor-si_x445_y382": {
+    "parent": [
+      "Rectangle-1-copy-25-_x435_y300"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 521,
+    "click_y": 411.5,
+    "click_x": 670.5,
+    "right": [],
+    "cssStyles": {
+      "color": "#000000",
+      "font-weight": "normal",
+      "letter-spacing": "0.13px",
+      "width": "451px",
+      "font-size": "13px",
+      "font-family": "NotoSans",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "59px",
+      "text-align": "left"
+    },
+    "elementName": "Lorem-ipsum-dolor-si_x445_y382",
+    "actElementName": "Lorem-ipsum-dolor-si_x445_y382",
+    "contains": [],
+    "styleGuideY": "382px",
+    "top": [
+      "Description-_x446_y365"
+    ],
+    "left": [],
+    "xMouseClickPoint": 831,
+    "styleGuideX": "445px",
+    "width": "451px",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\rtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim\rveniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea\rcommodo consequat. ",
+    "elementType": "bottomElement",
+    "height": "59px"
+  },
+  "Rectangle-1-copy-25-_x435_y300": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "CANCEL-_x562_y502",
+      "cancel-icon-_x545_y502",
+      "Rounded-Rectangle-50_x435_y487"
+    ],
+    "yMouseClickPoint": 425,
+    "click_y": 378.5,
+    "click_x": 672.5,
+    "right": [],
+    "cssStyles": {
+      "background-color": "#f8f8fb",
+      "border": "solid 1px #cccccc",
+      "border-radius": "3px",
+      "width": "475px",
+      "opacity": "0.7",
+      "height": "157px"
+    },
+    "elementName": "Rectangle-1-copy-25-_x435_y300",
+    "actElementName": "Rectangle-1-copy-25-_x435_y300",
+    "contains": [
+      "Name-_x446_y313",
+      "Lorem-ipsum-dolor-si_x445_y382",
+      "Divider-_x436_y352",
+      "Lorem-Ipsum-1-_x446_y330",
+      "Description-_x446_y365"
+    ],
+    "styleGuideY": "300px",
+    "top": [
+      "Add-New-Order-Cluste_x435_y274"
+    ],
+    "left": [],
+    "xMouseClickPoint": 838,
+    "styleGuideX": "435px",
+    "width": "475px",
+    "text": null,
+    "elementType": "container",
+    "height": "157px"
+  },
+  "close-_x922_y254": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 366,
+    "click_y": 258,
+    "click_x": 926,
+    "right": [],
+    "cssStyles": {
+      "background-color": "#737373",
+      "width": "8px",
+      "height": "8px"
+    },
+    "elementName": "close-_x922_y254",
+    "actElementName": "close-_x922_y254",
+    "contains": [],
+    "styleGuideY": "254px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 1204,
+    "styleGuideX": "922px",
+    "width": "8px",
+    "text": null,
+    "elementType": "icon",
+    "height": "8px"
+  },
+  "ROOT_REF_WINDOW": {
+    "parent": [],
+    "bottom": [],
+    "click_y": 49999.5,
+    "click_x": 49999.5,
+    "right": [],
+    "elementName": null,
+    "contains": [
+      "screen"
+    ],
+    "styleGuideY": 0,
+    "top": [],
+    "left": [],
+    "styleGuideX": 0,
+    "width": 99999,
+    "height": 99999
+  },
+  "CANCEL-_x562_y502": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 617,
+    "click_y": 506.5,
+    "click_x": 580.5,
+    "right": [],
+    "cssStyles": {
+      "color": "#0076d6",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "37px",
+      "font-size": "12px",
+      "font-family": "NotoSans",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "9px",
+      "text-align": "left"
+    },
+    "elementName": "CANCEL-_x562_y502",
+    "actElementName": "CANCEL-_x562_y502",
+    "contains": [],
+    "styleGuideY": "502px",
+    "top": [
+      "Rectangle-1-copy-25-_x435_y300"
+    ],
+    "left": [
+      "cancel-icon-_x545_y502"
+    ],
+    "xMouseClickPoint": 864,
+    "styleGuideX": "562px",
+    "width": "37px",
+    "text": "Cancel",
+    "elementType": "text",
+    "height": "9px"
+  },
+  "Add-_x472_y502": {
+    "parent": [
+      "Rounded-Rectangle-50_x435_y487"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 617,
+    "click_y": 507,
+    "click_x": 483.5,
+    "right": [],
+    "cssStyles": {
+      "color": "#ffffff",
+      "font-weight": "500",
+      "letter-spacing": "0.12px",
+      "width": "23px",
+      "font-size": "12px",
+      "font-family": "NotoSans",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "10px",
+      "text-align": "left"
+    },
+    "elementName": "Add-_x472_y502",
+    "actElementName": "Add-_x472_y502",
+    "contains": [],
+    "styleGuideY": "502px",
+    "top": [],
+    "left": [
+      "element_x454_y502"
+    ],
+    "xMouseClickPoint": 765,
+    "styleGuideX": "472px",
+    "width": "23px",
+    "text": "Add",
+    "elementType": "text",
+    "height": "10px"
+  },
+  "Add-New-Order-Cluste_x435_y274": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Rectangle-1-copy-25-_x435_y300"
+    ],
+    "yMouseClickPoint": 390,
+    "click_y": 279.5,
+    "click_x": 519,
+    "right": [],
+    "cssStyles": {
+      "color": "#000000",
+      "font-weight": "500",
+      "letter-spacing": "0.15px",
+      "width": "168px",
+      "font-size": "15px",
+      "font-family": "NotoSans",
+      "line-height": "1.33",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "11px",
+      "text-align": "left"
+    },
+    "elementName": "Add-New-Order-Cluste_x435_y274",
+    "actElementName": "Add-New-Order-Cluste_x435_y274",
+    "contains": [],
+    "styleGuideY": "274px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 821,
+    "styleGuideX": "435px",
+    "width": "168px",
+    "text": "Add New Order Cluster",
+    "elementType": "text",
+    "height": "11px"
+  },
+  "Divider-_x436_y352": {
+    "parent": [
+      "Rectangle-1-copy-25-_x435_y300"
+    ],
+    "bottom": [
+      "Description-_x446_y365"
+    ],
+    "yMouseClickPoint": 463,
+    "click_y": 352.5,
+    "click_x": 672.5,
+    "right": [],
+    "cssStyles": {
+      "background-color": "#737373",
+      "width": "473px",
+      "opacity": "0.25",
+      "height": "1px"
+    },
+    "elementName": "Divider-_x436_y352",
+    "actElementName": "Divider-_x436_y352",
+    "contains": [],
+    "styleGuideY": "352px",
+    "top": [
+      "Lorem-Ipsum-1-_x446_y330"
+    ],
+    "left": [],
+    "xMouseClickPoint": 828,
+    "styleGuideX": "436px",
+    "width": "473px",
+    "text": null,
+    "elementType": "container",
+    "height": "1px"
+  },
+  "Description-_x446_y365": {
+    "parent": [
+      "Rectangle-1-copy-25-_x435_y300"
+    ],
+    "bottom": [
+      "Lorem-ipsum-dolor-si_x445_y382"
+    ],
+    "yMouseClickPoint": 477,
+    "click_y": 368.5,
+    "click_x": 478.5,
+    "right": [],
+    "cssStyles": {
+      "color": "#737373",
+      "font-weight": "normal",
+      "letter-spacing": "0.1px",
+      "width": "65px",
+      "font-size": "10px",
+      "font-family": "NotoSans",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "7px",
+      "text-align": "left"
+    },
+    "elementName": "Description-_x446_y365",
+    "actElementName": "Description-_x446_y365",
+    "contains": [],
+    "styleGuideY": "365px",
+    "top": [
+      "Divider-_x436_y352"
+    ],
+    "left": [],
+    "xMouseClickPoint": 788,
+    "styleGuideX": "446px",
+    "width": "65px",
+    "text": "Description",
+    "elementType": "text",
+    "height": "7px"
+  },
+  "Lorem-Ipsum-1-_x446_y330": {
+    "parent": [
+      "Rectangle-1-copy-25-_x435_y300"
+    ],
+    "bottom": [
+      "Divider-_x436_y352"
+    ],
+    "yMouseClickPoint": 441,
+    "click_y": 336.5,
+    "click_x": 491.5,
+    "right": [],
+    "cssStyles": {
+      "color": "#000000",
+      "font-weight": "normal",
+      "letter-spacing": "0.13px",
+      "width": "91px",
+      "font-size": "13px",
+      "font-family": "NotoSans",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "13px",
+      "text-align": "left"
+    },
+    "elementName": "Lorem-Ipsum-1-_x446_y330",
+    "actElementName": "Lorem-Ipsum-1-_x446_y330",
+    "contains": [],
+    "styleGuideY": "330px",
+    "top": [
+      "Name-_x446_y313"
+    ],
+    "left": [],
+    "xMouseClickPoint": 741,
+    "styleGuideX": "446px",
+    "width": "91px",
+    "text": "Lorem Ipsum 1",
+    "elementType": "text",
+    "height": "13px"
+  },
+  "element_x454_y502": {
+    "parent": [
+      "Rounded-Rectangle-50_x435_y487"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 616,
+    "click_y": 507,
+    "click_x": 459.5,
+    "right": [
+      "Add-_x472_y502"
+    ],
+    "cssStyles": {
+      "color": "#ffffff",
+      "font-weight": "500",
+      "letter-spacing": "0.2px",
+      "width": "11px",
+      "font-size": "20px",
+      "font-family": "NotoSans",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "10px",
+      "text-align": "left"
+    },
+    "elementName": "element_x454_y502",
+    "actElementName": "element_x454_y502",
+    "contains": [],
+    "styleGuideY": "502px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 739,
+    "styleGuideX": "454px",
+    "width": "11px",
+    "text": "+",
+    "elementType": "icon",
+    "height": "10px"
+  }
+}
